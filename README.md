@@ -29,7 +29,7 @@ sudo chmod +x /etc/init.d/startup.sh
 - create crontab
 ```shell
 crontab -e
--> input `2` & add in `vim.basic`
+-> input `2` & add src code in `vim.basic`
 ```
 
 ## ami
