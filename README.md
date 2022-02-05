@@ -7,7 +7,7 @@
 
 ![overview](screenshots/overview.png)
 ---
-![detail](screenshots/detail.png)
+![detail_](screenshots/detail_.png)
 
 ## reference
 [awsstudygroup](https://000006.awsstudygroup.com/vi/)
